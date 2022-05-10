@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Leetcode Stats](https://leetcode.card.workers.dev/?username=wliederer&theme=unicorn)
+![Leetcode Stats](https://leetcode.card.workers.dev/?username=simplywilliam&theme=unicorn)
