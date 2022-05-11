@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+- 🔭 I’m currently working on leetcodes!
+- 
 ![Leetcode Stats](https://leetcode.card.workers.dev/?username=simplywilliam&theme=unicorn)
