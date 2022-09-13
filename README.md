@@ -17,5 +17,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on leetcodes!
 
 ![Leetcode Stats](https://leetcode.card.workers.dev/?username=simplywilliam&theme=unicorn)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=wliederer)](https://github.com/wliederer/github-readme-stats)
 
