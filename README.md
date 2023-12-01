@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working!
 
-![Leetcode Stats](https://leetcode.card.workers.dev/?username=simplywilliam&theme=unicorn)
 
